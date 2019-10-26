@@ -18,7 +18,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@material/animation": "^0.34.0",
+    "@material/animation": "^3.1.0",
     "@material/base": "^0.35.0",
     "@material/theme": "^0.35.0"
   }
